@@ -17,3 +17,4 @@ class Neural:
 					aa.append(0)
 				A.append(aa)
 			self.layers.appennd(Mat.Mat(A))
+			
